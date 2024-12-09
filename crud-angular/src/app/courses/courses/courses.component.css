@@ -5,3 +5,11 @@ table{
 .card-content{
   background-color: white;
 }
+
+.loading-spinner{
+  background: rgba(0,0,0, .15);
+  padding: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
